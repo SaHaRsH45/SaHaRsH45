@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am a 3rd-year Computer Science student passionate about developing innovative software solutions. I enjoy exploring new technologies, learning new skills, and applying them to real-world problems. Currently, I am working on several projects to enhance my portfolio and prepare for my future career in software development.
+I am a 4th-year Computer Science student passionate about developing innovative software solutions. I enjoy exploring new technologies, learning new skills, and applying them to real-world problems. Currently, I am working on several projects to enhance my portfolio and prepare for my future career in software development.
 
 ## 🔧 Technologies & Tools
 
