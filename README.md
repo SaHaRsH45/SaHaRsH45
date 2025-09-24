@@ -40,7 +40,6 @@ You can view my resume [here](link-to-your-resume).
 
 ## 📫 How to reach me
 
-[![Email](https://img.shields.io/badge/-shekharchd12@gmail.com-05122A?style=flat&logo=gmail)](mailto:saharshkumar45@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/saharsh45/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=internet-explorer)](https://codolio.com/profile/Saharsh_kumar45)
 
