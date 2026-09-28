@@ -1,20 +1,17 @@
-<!-- HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c9cd6&height=200&section=header&text=Saharsh%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20IAM%20%26%20Enterprise%20Backend%20%7C%20React%20Developer&descAlignY=58&descSize=17" alt="Saharsh Kumar banner" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C9CD6&center=true&vCenter=true&width=700&lines=Software+Engineer+I+%40+AlertEnterprise;CSE+Graduate+%7C+Chandigarh+University;750%2B+DSA+Problems+Solved;Building+scalable+apps+with+React+%26+Python" alt="Typing animation" />
-</a>
+<img src="https://raw.githubusercontent.com/SaHaRsH45/SaHaRsH45/main/assets/banner.svg" alt="Saharsh Kumar banner" width="100%" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saharsh45/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2C9CD6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codolio.com/profile/Saharsh_kumar45)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saharshkumar45@gmail.com)
-[![Codolio](https://img.shields.io/badge/Codolio-1F2937?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/Saharsh_kumar45)
+[![Codolio](https://img.shields.io/badge/Codolio-2C9CD6?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/Saharsh_kumar45)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaHaRsH45)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SaHaRsH45&label=Profile%20Views&color=2c9cd6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=SaHaRsH45&label=Profile%20Views&color=2c9cd6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/SaHaRsH45?label=Followers&style=flat-square&color=2c9cd6)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SaHaRsH45&query=$.public_repos&label=Public%20Repos&style=flat-square&color=a78bfa)
 
 </div>
 
@@ -22,37 +19,61 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer I at [AlertEnterprise](https://www.alertenterprise.com/)** working on enterprise **Identity & Access Management (IAM)** products, and a **Computer Science & Engineering graduate** from Chandigarh University (CGPA **8.32**).
+I'm a **Software Engineer I at [AlertEnterprise](https://www.alertenterprise.com/)**, building enterprise **Identity & Access Management (IAM)** products, and a **CSE graduate** from Chandigarh University (CGPA **8.32**).
 
-Day to day, I dig into backend workflows, **REST APIs** and **SQL**, debugging tricky integration issues around identity lifecycle and access management. Outside of work, I build full-stack projects with **React** and **Python**, and sharpen my fundamentals through competitive programming.
+At work I dig into backend workflows, **REST APIs** and **SQL**, debugging tricky integration issues around identity lifecycle and access management. Outside work I build full-stack projects with **React** and **Python**, and sharpen my fundamentals through competitive programming.
 
-- 🏢 Currently building secure, scalable IAM solutions at **AlertEnterprise**
-- 🧩 Solved **750+ problems** across LeetCode, HackerRank, GFG and CodeChef
-- 🏆 **Top 10** at hackathons including **Innokshetra (NIT Kurukshetra)** and **Hack n Win**
-- 🌱 Currently leveling up in **Advanced React / Redux** and **Cloud Computing (AWS)**
-- ⚽ Off the clock: cricket, music, football and puzzles
+```js
+const saharsh = {
+  role: "Software Engineer I @ AlertEnterprise",
+  focus: ["IAM", "REST APIs", "SQL", "React", "Python"],
+  strongestLanguage: "C++",
+  problemsSolved: "750+",
+  hackathons: "Top 10 @ Innokshetra (NIT Kurukshetra), Hack n Win",
+  currentlyLearning: ["Advanced React & Redux", "AWS Cloud"],
+  funFact: "Cricket, football and puzzles keep me sharp ⚽🏏",
+  lookingFor: "Meaningful engineering problems and great teammates"
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,js,py&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,js,py,react,html,css,tailwind,flask,mysql,firebase,aws,git,github,vscode,selenium&theme=dark&perline=9" alt="Tech stack" />
 
-**Frontend**
+</div>
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="Frontend" />
+| Category | Tools |
+|---|---|
+| **Languages** | C++ (proficient), C, Java, JavaScript, Python, SQL |
+| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS |
+| **Backend & Data** | REST APIs, Flask, MySQL, Firebase |
+| **Core CS** | Data Structures & Algorithms, DBMS, Operating Systems, NLP basics |
+| **Tools** | Git, GitHub, VS Code, Selenium |
 
-**Backend, Database & Cloud**
+---
 
-<img src="https://skillicons.dev/icons?i=flask,mysql,firebase,aws&theme=dark" alt="Backend and Database" />
+## 🧠 Coding Profiles
 
-**Tools**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,selenium&theme=dark" alt="Tools" />
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME)
+[![Codolio](https://img.shields.io/badge/Codolio-2C9CD6?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/Saharsh_kumar45)
 
-**Core CS:** Data Structures & Algorithms · DBMS · Operating Systems · REST APIs · NLP basics
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="48%" />
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?userName=YOUR_GFG_USERNAME&theme=dark" alt="GFG stats" width="48%" />
+
+**750+ problems solved across platforms** · C++ · STL · DSA
+
+</div>
 
 ---
 
@@ -65,7 +86,7 @@ Day to day, I dig into backend workflows, **REST APIs** and **SQL**, debugging t
 ### 🏢 [WorkOra](https://github.com/SaHaRsH45/WorkOra)
 **Employee Management System**
 
-A web app with separate **Admin** and **Employee** dashboards for streamlined workforce operations. Firebase powers authentication and real-time employee data.
+Web app with separate **Admin** and **Employee** dashboards for streamlined workforce operations. Firebase handles authentication and real-time data.
 
 `React.js` `Tailwind CSS` `Firebase` `JavaScript`
 
@@ -75,9 +96,9 @@ A web app with separate **Admin** and **Employee** dashboards for streamlined wo
     <td width="50%" valign="top">
 
 ### 🗺️ Google Maps Market Research Tool
-**AI-powered lead & market insights**
+**AI-powered market insights**
 
-Scrapes Google Maps listings with **Selenium** to cut manual data collection, then lets you query the results in plain English through the **OpenAI API**.
+Scrapes Google Maps listings with **Selenium** to cut manual data collection, then answers plain-English questions about the data through the **OpenAI API**.
 
 `Python` `Selenium` `Flask` `ReactJS` `OpenAI API`
 
@@ -89,7 +110,7 @@ Scrapes Google Maps listings with **Selenium** to cut manual data collection, th
 ### 🌐 [Portfolio Website](https://github.com/SaHaRsH45/PortFolio)
 **Personal developer portfolio**
 
-A clean, responsive site showcasing my experience, projects and contact options, built for speed and modern design.
+Clean, responsive site showcasing experience, projects and contact options.
 
 `React.js` `Tailwind CSS` `JavaScript`
 
@@ -98,14 +119,12 @@ A clean, responsive site showcasing my experience, projects and contact options,
   </td>
     <td width="50%" valign="top">
 
-### 📊 Competitive Programming
-**750+ problems solved**
+### 🔐 Enterprise IAM Work
+**AlertEnterprise**
 
-Consistent practice across LeetCode, HackerRank, GFG and CodeChef, with a focus on data structures, algorithms and clean C++.
+Feature enhancements and integration debugging across REST APIs, SQL and backend services for identity lifecycle and access management products.
 
-`C++` `STL` `DSA`
-
-[📈 View Profile](https://codolio.com/profile/Saharsh_kumar45)
+`REST APIs` `SQL` `IAM` `Backend`
 
   </td>
   </tr>
@@ -118,7 +137,7 @@ Consistent practice across LeetCode, HackerRank, GFG and CodeChef, with a focus 
 **Software Engineer I** · [AlertEnterprise](https://www.alertenterprise.com/) · Chandigarh, India
 *Oct 2025 – Present (Software Engineer Intern: Oct 2025 – Jul 2026)*
 
-- Build and enhance features for enterprise **Identity & Access Management (IAM)** solutions.
+- Build and enhance features for enterprise **Identity & Access Management** solutions.
 - Investigate, debug and resolve complex integration issues across **REST APIs, SQL** and enterprise backend services.
 - Collaborate with cross-functional teams to deliver scalable security solutions and improve performance and reliability.
 
@@ -128,7 +147,7 @@ Consistent practice across LeetCode, HackerRank, GFG and CodeChef, with a focus 
 
 | | |
 |---|---|
-| 🧠 **Problem Solving** | 750+ problems solved on LeetCode, HackerRank, GFG & CodeChef |
+| 🧠 **Problem Solving** | 750+ problems solved on LeetCode, HackerRank, GFG and CodeChef |
 | 🏆 **Hackathons** | Top 10 at Innokshetra (NIT Kurukshetra) and Hack n Win |
 | 💡 **Innovation** | Top 5 in departmental project exhibition |
 | 🤝 **Leadership** | Class Representative for 5 semesters |
@@ -142,11 +161,22 @@ Consistent practice across LeetCode, HackerRank, GFG and CodeChef, with a focus 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=SaHaRsH45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaHaRsH45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaHaRsH45&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=SaHaRsH45&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaHaRsH45&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaHaRsH45&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
 
 </div>
+
+<!--
+🐍 SNAKE ANIMATION (optional)
+1. Push .github/workflows/snake.yml to this repo.
+2. Repo > Actions > "Generate Snake Animation" > Run workflow. Wait for it to finish.
+3. Delete this comment wrapper to show the snake.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SaHaRsH45/SaHaRsH45/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+-->
 
 ---
 
@@ -162,7 +192,7 @@ Consistent practice across LeetCode, HackerRank, GFG and CodeChef, with a focus 
 
 ## 📫 Let's Connect
 
-I'm always up for talking about backend engineering, IAM, full-stack projects or DSA.
+Always up for talking backend engineering, IAM, full-stack projects or DSA.
 
 <div align="center">
 
@@ -171,8 +201,6 @@ I'm always up for talking about backend engineering, IAM, full-stack projects or
 
 <br/>
 
-*⭐ If you like something here, drop a star on the repo!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c9cd6&height=110&section=footer" alt="footer" />
+<img src="https://raw.githubusercontent.com/SaHaRsH45/SaHaRsH45/main/assets/footer.svg" alt="footer" width="100%" />
 
 </div>
