@@ -4,7 +4,7 @@
 
 **Software Engineer I @ AlertEnterprise  ·  Java Backend Developer  ·  Spring Boot · REST APIs · PostgreSQL/MySQL · DSA**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer+I+%40+AlertEnterprise;Java+Backend+Developer+%7C+Spring+Boot;REST+APIs+%7C+PostgreSQL+%2F+MySQL;1000%2B+DSA+Problems+Solved" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer+I+%40+AlertEnterprise;Java+Backend+Developer+%7C+Spring+Boot;REST+APIs+%7C+PostgreSQL+%2F+MySQL;750%2B+DSA+Problems+Solved" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saharsh45/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saharshkumar45@gmail.com)
@@ -85,7 +85,7 @@ At work, I build and debug backend services using **Java, Spring Boot, REST APIs
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME)
 [![Codolio](https://img.shields.io/badge/Codolio-2C9CD6?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/Saharsh_kumar45)
 
-**1000+ problems solved** across platforms · Strong in C++, STL & DSA
+**750+ problems solved** across platforms · Strong in C++, STL & DSA
 
 </div>
 
@@ -147,7 +147,7 @@ Feature development and integration debugging for enterprise Identity & Access M
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaHaRsH45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaHaRsH45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaHaRsH45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=SaHaRsH45&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
