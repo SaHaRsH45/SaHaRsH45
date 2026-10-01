@@ -2,7 +2,7 @@
 
 # Saharsh Kumar
 
-**Software Engineer I @ AlertEnterprise  ·  IAM & Backend Systems  ·  React Developer**
+**Software Engineer I @ AlertEnterprise  ·  Java Backend Developer | Spring Boot  . Database:Postgres/Mysql ·  DSA Enthusiast**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer+I+%40+AlertEnterprise;Identity+%26+Access+Management+(IAM);React.js+%7C+Python+%7C+REST+APIs;750%2B+DSA+Problems+Solved" alt="Typing SVG" />
 
@@ -141,10 +141,10 @@ Feature enhancements and integration debugging across REST APIs, SQL and backend
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaHaRsH45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaHaRsH45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaHaRsH45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaHaRsH45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=SaHaRsH45&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=SaHaRsH45&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 
 </div>
 
