@@ -2,9 +2,9 @@
 
 # Saharsh Kumar
 
-**Software Engineer I @ AlertEnterprise  ·  Java Backend Developer | Spring Boot  . Database:Postgres/Mysql ·  DSA Enthusiast**
+**Software Engineer I @ AlertEnterprise  ·  Java Backend Developer  ·  Spring Boot · REST APIs · PostgreSQL/MySQL · DSA**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer+I+%40+AlertEnterprise;Identity+%26+Access+Management+(IAM);React.js+%7C+Python+%7C+REST+APIs;750%2B+DSA+Problems+Solved" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer+I+%40+AlertEnterprise;Java+Backend+Developer+%7C+Spring+Boot;REST+APIs+%7C+PostgreSQL+%2F+MySQL;750%2B+DSA+Problems+Solved" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saharsh45/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saharshkumar45@gmail.com)
@@ -20,14 +20,15 @@
 
 ## 📌 About Me
 
-I'm a **Software Engineer I at [AlertEnterprise](https://www.alertenterprise.com/)**, working on enterprise **Identity & Access Management (IAM)** products, and a **Computer Science & Engineering graduate** from Chandigarh University *(CGPA 8.32)*.
+I'm a **Software Engineer I at [AlertEnterprise](https://www.alertenterprise.com/)**, working as a **Java Backend Developer** on enterprise **Identity & Access Management (IAM)** products, and a **Computer Science & Engineering graduate** from Chandigarh University *(CGPA 8.32)*.
 
-At work, I dig into backend workflows, **REST APIs**, and **SQL**, debugging integration issues across identity lifecycle and access management systems. Outside work, I build full-stack projects with **React** and **Python**, and sharpen my fundamentals through competitive programming.
+At work, I build and debug backend services using **Java, Spring Boot, REST APIs**, and **PostgreSQL/MySQL**, resolving integration issues across identity lifecycle and access management systems. Outside work, I build full-stack projects with **React** and **Python**, and sharpen my fundamentals through **Data Structures & Algorithms (DSA)** and competitive programming.
 
-- 🏢 Currently building secure, scalable IAM solutions at **AlertEnterprise**
-- 🧩 Solved **750+ problems** on LeetCode, HackerRank, GeeksforGeeks & CodeChef
+- 🏢 Building secure, scalable backend services for IAM at **AlertEnterprise** using **Java & Spring Boot**
+- 🔗 Designing and consuming **REST APIs** backed by **PostgreSQL / MySQL**
+- 🧩 Solved **750+ DSA problems** on LeetCode, HackerRank, GeeksforGeeks & CodeChef
 - 🏆 **Top 10** at hackathons — **Innokshetra (NIT Kurukshetra)** and **Hack n Win**
-- 🌱 Currently leveling up **Advanced React/Redux** and **AWS Cloud**
+- 🌱 Currently leveling up **Spring Boot**, **Advanced React/Redux**, and **AWS Cloud**
 - ⚽ Off the clock: cricket, football, music and puzzles
 
 <br/>
@@ -36,12 +37,24 @@ At work, I dig into backend workflows, **REST APIs**, and **SQL**, debugging int
 
 **Languages**
 <br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Backend & APIs**
+<br/>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Databases**
+<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frontend**
 <br/>
@@ -49,13 +62,6 @@ At work, I dig into backend workflows, **REST APIs**, and **SQL**, debugging int
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & Data**
-<br/>
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **Tools & Platforms**
 <br/>
@@ -65,7 +71,7 @@ At work, I dig into backend workflows, **REST APIs**, and **SQL**, debugging int
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-**Core CS:** Data Structures & Algorithms · DBMS · Operating Systems · NLP basics
+**Core CS:** Data Structures & Algorithms (DSA) · DBMS · Operating Systems · NLP basics
 
 <br/>
 
@@ -108,10 +114,10 @@ A personal portfolio site showcasing projects, skills and achievements with a cl
 
 ---
 
-### 🔐 Enterprise IAM Work — AlertEnterprise
-Feature enhancements and integration debugging across REST APIs, SQL and backend services for identity lifecycle and access management products.
+### 🔐 Enterprise IAM Backend — AlertEnterprise
+Feature development and integration debugging for enterprise Identity & Access Management products, working with **Java, Spring Boot, REST APIs**, and **SQL** across backend services handling identity lifecycle and access management.
 <br/>
-![REST APIs](https://img.shields.io/badge/-REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![IAM](https://img.shields.io/badge/-IAM-6366F1?style=flat-square) ![Backend](https://img.shields.io/badge/-Backend-334155?style=flat-square)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![REST APIs](https://img.shields.io/badge/-REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![IAM](https://img.shields.io/badge/-IAM-6366F1?style=flat-square)
 
 <br/>
 
@@ -120,8 +126,8 @@ Feature enhancements and integration debugging across REST APIs, SQL and backend
 **Software Engineer I** · [AlertEnterprise](https://www.alertenterprise.com/) · Chandigarh, India
 *Oct 2025 – Present (Software Engineer Intern: Oct 2025 – Jul 2026)*
 
-- Build and enhance features for enterprise **Identity & Access Management** solutions.
-- Investigate, debug and resolve complex integration issues across **REST APIs, SQL** and enterprise backend services.
+- Build and enhance backend features for enterprise **Identity & Access Management** solutions using **Java** and **Spring Boot**.
+- Investigate, debug and resolve complex integration issues across **REST APIs**, **PostgreSQL/MySQL**, and enterprise backend services.
 - Collaborate with cross-functional teams to deliver scalable security solutions and improve performance and reliability.
 
 <br/>
