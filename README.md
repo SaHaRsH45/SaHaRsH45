@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Saharsh Kumar 👋
+# Saharsh Kumar
 
-### Software Engineer I @ AlertEnterprise · IAM & Backend Systems · React Developer
+**Software Engineer I @ AlertEnterprise  ·  IAM & Backend Systems  ·  React Developer**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer+I+%40+AlertEnterprise;Identity+%26+Access+Management+(IAM);React.js+%7C+Python+%7C+REST+APIs;750%2B+DSA+Problems+Solved" alt="Typing SVG" />
 
@@ -18,7 +18,7 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## 📌 About Me
 
 I'm a **Software Engineer I at [AlertEnterprise](https://www.alertenterprise.com/)**, working on enterprise **Identity & Access Management (IAM)** products, and a **Computer Science & Engineering graduate** from Chandigarh University *(CGPA 8.32)*.
 
@@ -34,19 +34,38 @@ At work, I dig into backend workflows, **REST APIs**, and **SQL**, debugging int
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
+<br/>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,js,py,react,html,css,tailwind,flask,mysql,firebase,aws,git,github,vscode,selenium&theme=dark&perline=9" alt="Tech Stack" />
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-</div>
+**Backend & Data**
+<br/>
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-| Category | Skills |
-|---|---|
-| **Languages** | C++ (proficient), C, Java, JavaScript, Python, SQL |
-| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS |
-| **Backend & Data** | REST APIs, Flask, MySQL, Firebase |
-| **Core CS** | Data Structures & Algorithms, DBMS, Operating Systems |
-| **Tools** | Git, GitHub, VS Code, Selenium |
+**Tools & Platforms**
+<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Core CS:** Data Structures & Algorithms · DBMS · Operating Systems · NLP basics
 
 <br/>
 
@@ -68,52 +87,31 @@ At work, I dig into backend workflows, **REST APIs**, and **SQL**, debugging int
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### 🏢 [WorkOra — Employee Management System](https://github.com/SaHaRsH45/WorkOra)
+Web app with separate **Admin** and **Employee** dashboards for streamlined workforce operations. Firebase handles authentication and real-time employee data.
+<br/>
+![React.js](https://img.shields.io/badge/-React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🏢 [WorkOra](https://github.com/SaHaRsH45/WorkOra)
-**Employee Management System**
-
-Web app with separate **Admin** and **Employee** dashboards for streamlined workforce operations. Firebase handles authentication and real-time data.
-
-`React.js` `Tailwind CSS` `Firebase` `JavaScript`
-
-  </td>
-    <td width="50%" valign="top">
+---
 
 ### 🗺️ Google Maps Market Research Tool
-**AI-powered market insights**
+AI-powered tool that scrapes Google Maps listings using **Selenium** to cut manual data collection, then answers plain-English queries about the results through the **OpenAI API**.
+<br/>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/-ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
-Scrapes Google Maps listings with **Selenium** to cut manual effort, then answers plain-English questions about the data via the **OpenAI API**.
-
-`Python` `Selenium` `Flask` `ReactJS` `OpenAI API`
-
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+---
 
 ### 🌐 [Portfolio Website](https://github.com/SaHaRsH45/PortFolio)
-**Personal developer portfolio**
+A personal portfolio site showcasing projects, skills and achievements with a clean, responsive UI.
+<br/>
+![React.js](https://img.shields.io/badge/-React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Clean, responsive site showcasing experience, projects and contact options.
+---
 
-`React.js` `Tailwind CSS` `JavaScript`
-
-  </td>
-    <td width="50%" valign="top">
-
-### 🔐 Enterprise IAM Work
-**AlertEnterprise**
-
+### 🔐 Enterprise IAM Work — AlertEnterprise
 Feature enhancements and integration debugging across REST APIs, SQL and backend services for identity lifecycle and access management products.
-
-`REST APIs` `SQL` `IAM` `Backend`
-
-  </td>
-  </tr>
-</table>
+<br/>
+![REST APIs](https://img.shields.io/badge/-REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![IAM](https://img.shields.io/badge/-IAM-6366F1?style=flat-square) ![Backend](https://img.shields.io/badge/-Backend-334155?style=flat-square)
 
 <br/>
 
